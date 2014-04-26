@@ -1,6 +1,3 @@
-
-
-
 ## makeCacheMatrix create list of fuction to set matrix and get matrix and
 ## set solve for Matrix and get the solve matrix
 
